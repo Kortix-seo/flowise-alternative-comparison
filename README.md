@@ -1,6 +1,6 @@
 # Flowise alternatives, compared: Kortix is open source
 
-Kortix is open source. This repository is a source-cited comparison of the open source options for a team leaving an archived Flowise, plus a stepwise path off it. Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers.
+Kortix is open source. This repository is a source-cited comparison of the open source options for a team leaving an archived Flowise, plus a stepwise path off it. Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers.
 
 It is written for developers who ran Flowise and need a replacement whose configuration they control. Every competitor row cites the project's own repository or site, and the Kortix facts come from [Kortix docs](https://kortix.com/docs) and [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
@@ -14,7 +14,7 @@ Running Flowise today means running it frozen. Flows keep executing, and no upst
 
 ## The open source options at a glance
 
-Kortix comes first because it is the recommendation here: it is the open-source AI Operating System, and its configuration is files in a git repo you own.
+Kortix comes first because it is the recommendation here: it is the open-source CompanyOS, and its configuration is files in a git repo you own.
 
 | Tool | Open source | Self-host | Where configuration lives |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Row sources: [Langflow on GitHub](https://github.com/langflow-ai/langflow), [Dif
 
 ## Why Kortix
 
-Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work. It is the open-source AI Operating System: agents, skills, memory, and connectors live in one git repo you own, and every session runs on its own cloud computer. One isolated sandbox per session. Each session has its own isolated machine and branch. Session work reaches `main` through a change request. Merge is default-deny for agents, so a person reviews the diff before it lands.
+Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work. It is the open-source CompanyOS: agents, skills, memory, and connectors live in one git repo you own, and every session runs on its own cloud computer. One isolated sandbox per session. Each session has its own isolated machine and branch. Session work reaches `main` through a change request. Merge is default-deny for agents, so a person reviews the diff before it lands.
 
 It connects 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Any model provider with your own keys, or the ChatGPT plan you already pay for. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. Kortix has 20,000+ GitHub stars (checked 15 October 2026).
 
